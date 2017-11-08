@@ -77,8 +77,10 @@ URL of the toolboxes and functions and citation of the competing method:
          minimization. Physics in Medicine & Biology, 53(17):4777–4807, 2008.
    
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 Resources for research purpose only, shall not be used for commercial purposes! All copyrights belong to the original anthors. 
 The technology has applied for patents. If you want to purchase the patents for commercial purposes, please contact the 
 corresponding author: Deyu Meng, dymeng@mail.xjtu.edu.cn. Thank you!
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
