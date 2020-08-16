@@ -26,7 +26,7 @@ function  Y = IMAP_TV2_CPU(P,I0,b,Par)
 % more detail can be found in [1]
 %
 % [1] Qi Xie, Dong Zeng, Qian Zhao, Deyu Meng*, Zongben Xu, Zhengrong Liang, and Jianhua Ma*
-%     Robust Low-dose CT Sinogram Prepocessing via Exploiting Noise-generating Mechanism
+%     Robust Low-dose CT Sinogram Preprocessing via Exploiting Noise-generating Mechanism
 %     IEEE Transactions on Medical Imaging, 2017
 %
 % by Qi Xie, 2017.

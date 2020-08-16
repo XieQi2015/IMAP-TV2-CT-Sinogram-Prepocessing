@@ -61,7 +61,7 @@ Usage:
 Citation:
 
      Qi Xie, Dong Zeng, Qian Zhao, Deyu Meng*, Zongben Xu, Zhengrong Liang, and Jianhua Ma*
-     Robust Low-dose CT Sinogram Prepocessing via Exploiting Noise-generating Mechanism
+     Robust Low-dose CT Sinogram Preprocessing via Exploiting Noise-generating Mechanism
      IEEE Transactions on Medical Imaging, 2017
 
 URL of the toolboxes and functions and citation of the competing method:
